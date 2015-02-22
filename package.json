@@ -2,6 +2,7 @@
   "name": "basscss-colors",
   "version": "0.0.2",
   "description": "Color styles module for Basscss",
+  "style": "index.css",
   "repository": {
     "type": "git",
     "url": "https://github.com/jxnblk/basscss-colors.git"
@@ -17,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/jxnblk/basscss-colors/issues"
   },
-  "homepage": "https://github.com/jxnblk/basscss-colors"
+  "homepage": "https://github.com/jxnblk/basscss-colors",
+  "dependencies": {
+    "colors.css": "^2.0.4"
+  }
 }
