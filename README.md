@@ -33,7 +33,7 @@ Use this suite of color, background color, and border color utilities to directl
 <div class="center p1 bg-white">.bg-white</div>
 <div class="center p1 bg-aqua">.bg-aqua</div>
 <div class="center p1 bg-blue">.bg-blue</div>
-<div class="center p1 bg-navy">.bg-navy</div>
+<div class="center p1 white bg-navy">.bg-navy</div>
 <div class="center p1 bg-teal">.bg-teal</div>
 <div class="center p1 bg-green">.bg-green</div>
 <div class="center p1 bg-olive">.bg-olive</div>
@@ -43,7 +43,7 @@ Use this suite of color, background color, and border color utilities to directl
 <div class="center p1 bg-red">.bg-red</div>
 <div class="center p1 bg-fuchsia">.bg-fuchsia</div>
 <div class="center p1 bg-purple">.bg-purple</div>
-<div class="center p1 bg-maroon">.bg-maroon</div>
+<div class="center p1 white bg-maroon">.bg-maroon</div>
 <div class="center p1 bg-darken-1">.bg-darken-1</div>
 <div class="center p1 bg-darken-2">.bg-darken-2</div>
 <div class="center p1 bg-darken-3">.bg-darken-3</div>
