@@ -3,6 +3,8 @@
 Color styles module for [Basscss](http://basscss.com)
 
 Use this suite of color, background color, and border color utilities to directly style elements.
+The color values used in this module are from [mrmrs/colors](http://clrs.cc/).
+
 
 ```html
 <h3 class="center">
@@ -52,7 +54,7 @@ Use this suite of color, background color, and border color utilities to directl
 
 ```html
 <div class="flex flex-wrap mxn1">
-  <div class="flex-auto center m1 p1 white border border-black">.border-black</div>
+  <div class="flex-auto center m1 p1 border border-black">.border-black</div>
   <div class="flex-auto center m1 p1 border border-gray">.border-gray</div>
   <div class="flex-auto center m1 p1 border border-silver">.border-silver</div>
   <div class="flex-auto center m1 p1 border border-white">.border-white</div>
@@ -75,6 +77,4 @@ Use this suite of color, background color, and border color utilities to directl
   <div class="flex-auto center m1 p1 border border-darken-4">.border-darken-4</div>
 </div>
 ```
-
-The color values used in this module are from [mrmrs/colors](http://clrs.cc/).
 
