@@ -88,6 +88,6 @@ To de-emphasize elements with lower opacity, use the `.muted` utility.
 
 ```html
 <span class="blue">Normal</span>
-<span class="blue muted">Normal</span>
+<span class="blue muted">Muted</span>
 ```
 
