@@ -5,6 +5,7 @@ Color styles module for [Basscss](http://basscss.com)
 Use this suite of color, background color, and border color utilities to directly style elements.
 The color values used in this module are from [mrmrs/colors](http://clrs.cc/).
 
+## Colors
 
 ```html
 <h3 class="center">
@@ -27,6 +28,8 @@ The color values used in this module are from [mrmrs/colors](http://clrs.cc/).
   <span class="maroon">.maroon</span>
 </h3>
 ```
+
+## Background Colors
 
 ```html
 <div class="center p1 white bg-black">.bg-black</div>
@@ -52,6 +55,8 @@ The color values used in this module are from [mrmrs/colors](http://clrs.cc/).
 <div class="center p1 bg-darken-4">.bg-darken-4</div>
 ```
 
+## Border Colors
+
 ```html
 <div class="flex flex-wrap mxn1">
   <div class="flex-auto center m1 p1 border border-black">.border-black</div>
@@ -76,5 +81,13 @@ The color values used in this module are from [mrmrs/colors](http://clrs.cc/).
   <div class="flex-auto center m1 p1 border border-darken-3">.border-darken-3</div>
   <div class="flex-auto center m1 p1 border border-darken-4">.border-darken-4</div>
 </div>
+```
+
+## Opacity
+To de-emphasize elements with lower opacity, use the `.muted` utility.
+
+```html
+<span class="blue">Normal</span>
+<span class="blue muted">Normal</span>
 ```
 

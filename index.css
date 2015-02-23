@@ -79,6 +79,8 @@
 .border-darken-3 { border-color: var(--darken-3) }
 .border-darken-4 { border-color: var(--darken-4) }
 
+/* Opacity */
+.muted { opacity: .5 }
 
 @import 'colors.css/myth/variables';
 
