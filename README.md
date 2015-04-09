@@ -1,6 +1,3 @@
-# Basscss Colors
-
-Color styles module for [Basscss](http://basscss.com)
 
 Use this suite of color, background color, and border color utilities to directly style elements.
 The color values used in this module are from [mrmrs/colors](http://clrs.cc/).
