@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/basscss/colors",
   "dependencies": {
-    "colors.css": "^2.0.4"
+    "basscss-defaults": "^2.0.1"
   }
 }

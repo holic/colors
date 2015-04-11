@@ -82,13 +82,6 @@
 /* Opacity */
 .muted { opacity: .5 }
 
-@import 'colors.css/myth/variables';
+@import 'basscss-defaults';
 
-:root {
-  --black: #222;
-  --darken-1: rgba(0,0,0,.0625);
-  --darken-2: rgba(0,0,0,.125);
-  --darken-3: rgba(0,0,0,.25);
-  --darken-4: rgba(0,0,0,.5);
-}
 
