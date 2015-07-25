@@ -35,3 +35,18 @@ To de-emphasize elements with lower opacity, use the `.muted` utility.
 <span class="blue muted">Muted</span>
 ```
 
+## Lighten and Darken
+Furthur control emphasis with `.lighten-n` and `.darken-n` utilities.
+
+```html
+<span class="darken-5">.darken-5</span>
+<span class="darken-6">.darken-6</span>
+<span class="darken-7">.darken-7</span>
+<span class="darken-8">.darken-8</span>
+<div class="bg-navy">
+  <span class="lighten-5">.lighten-5</span>
+  <span class="lighten-6">.lighten-6</span>
+  <span class="lighten-7">.lighten-7</span>
+  <span class="lighten-8">.lighten-8</span>
+</div>
+```
